@@ -44,10 +44,10 @@ global.ppulsa2 = '085749543572'
 global.psaweria = 'https://saweria.co/oktakc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'Nakano Nino'
-global.nameown = 'Okta'
+global.nomorbot = '6285256418678'
+global.nomorown = '6285256418678'
+global.namebot = '𝕽𝖆𝖋𝖋'
+global.nameown = 'Raffa'
 
 
 /*============== STAFF ==============*/
@@ -127,11 +127,11 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Nakano Nino Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Okta* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Okta'
-global.umurowner = '16'
+global.nameowner = 'Raffa'
+global.umurowner = '14'
 global.asalowner = 'Indonesia'
-global.nomorowner = 'wa.me/6285731947500'
-global.pacarowner = 'Chaca'
+global.nomorowner = 'wa.me/6285256418678'
+global.pacarowner = 'Ga Ada :v'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
